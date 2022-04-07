@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is me. Learning and growwing :)
 
 <!--
 **TinyPlanets/tinyplanets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
