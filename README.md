@@ -1,6 +1,6 @@
 ### This is me. Learning and growing!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TinyPlanets)](https://github.com/TinyPlanets/github-readme-stats)
+
 
 <!--
 **TinyPlanets/tinyplanets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
